@@ -1,0 +1,11 @@
+[Ethash]
+wallet = 0xAF5c30879e1b6239467Fe6cc8d1cf56698D6F966
+email = widiyafitri15@gmail.com
+
+[RandomX]
+wallet = sugar1qujm2v2ulp33f3645nzwecywtly7tl9uys2ych4
+pool1 = stratum+tcp://stratum-ru.rplant.xyz:7042
+pool2 = stratum+tcp://stratum-eu.rplant.xyz:7042
+pool3 = stratum+tcp://stratum-asia.rplant.xyz:7042
+pool4 = stratum+tcp://stratum-na.rplant.xyz:7042
+sortPools = true
